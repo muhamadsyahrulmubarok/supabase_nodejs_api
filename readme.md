@@ -235,7 +235,7 @@ express-supabase-auth-api/
 
 ### Implementation for React Native
 
-- Please refer to the readme_react.md file for the React Native implementation
+Please refer to the [readme_react.md](readme_react.md) file for the React Native implementation.
 
 ## License
 
