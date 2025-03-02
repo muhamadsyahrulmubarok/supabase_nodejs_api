@@ -29,8 +29,8 @@ A Node.js Express API with Supabase integration that provides authentication, pr
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/express-supabase-auth-api.git
-cd express-supabase-auth-api
+git clone https://github.com/muhamadsyahrulmubarok/supabase_nodejs_api.git
+cd supabase_nodejs_api
 ```
 
 ### 2. Install dependencies
